@@ -1,0 +1,14 @@
+C:\Users\batu\Desktop\boran voice deneme\P2P VoiceChat Latest Trial.exe
+C:\Users\batu\Desktop\boran voice deneme\P2P VoiceChat Latest Trial.dll
+C:\Users\batu\Desktop\boran voice deneme\P2P VoiceChat Latest Trial.deps.json
+C:\Users\batu\Desktop\boran voice deneme\P2P VoiceChat Latest Trial.runtimeconfig.json
+C:\Users\batu\Desktop\boran voice deneme\P2P VoiceChat Latest Trial.pdb
+C:\Users\batu\Desktop\boran voice deneme\Concentus.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.Asio.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.Core.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.Midi.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.Wasapi.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.WinForms.dll
+C:\Users\batu\Desktop\boran voice deneme\NAudio.WinMM.dll
+C:\Users\batu\Desktop\boran voice deneme\STUN.dll

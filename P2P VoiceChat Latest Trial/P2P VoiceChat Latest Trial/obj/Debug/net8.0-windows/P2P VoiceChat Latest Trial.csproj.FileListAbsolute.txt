@@ -1,0 +1,27 @@
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\P2P VoiceChat Latest Trial.exe
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\P2P VoiceChat Latest Trial.deps.json
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\P2P VoiceChat Latest Trial.runtimeconfig.json
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\P2P VoiceChat Latest Trial.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\P2P VoiceChat Latest Trial.pdb
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\Concentus.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.csproj.AssemblyReference.cache
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P_VoiceChat_Latest_Trial.Form1.resources
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.csproj.GenerateResource.cache
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.AssemblyInfoInputs.cache
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.AssemblyInfo.cs
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.csproj.CoreCompileInputs.cache
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P Voic.20E0B2AD.Up2Date
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\refint\P2P VoiceChat Latest Trial.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.pdb
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\P2P VoiceChat Latest Trial.genruntimeconfig.cache
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\obj\Debug\net8.0-windows\ref\P2P VoiceChat Latest Trial.dll
+C:\Users\batu\Desktop\naudio deneme\P2P VoiceChat Latest Trial\P2P VoiceChat Latest Trial\bin\Debug\net8.0-windows\STUN.dll
