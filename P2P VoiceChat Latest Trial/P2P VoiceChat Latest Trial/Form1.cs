@@ -140,7 +140,7 @@ namespace P2P_VoiceChat_Latest_Trial
         private void startSendingButton_Click(object sender, EventArgs e)
         {
             string targetIp = targetIPBox.Text.Trim();
-            int targetPort = 5500; //int.Parse(targetPortBox.Text.Trim());
+            int targetPort = int.Parse(targetPortBox.Text.Trim());
             udpSender = new UdpClient();
             IPEndPoint targetEndPoint = new IPEndPoint(IPAddress.Parse(targetIp), targetPort);
 
@@ -171,9 +171,9 @@ namespace P2P_VoiceChat_Latest_Trial
 
                 udpSender.Send(toSend, toSend.Length, targetEndPoint);
                 //Console.WriteLine($"[SEND] Sending {toSend.Length} bytes to {targetEndPoint}");
-                MessageBox.Show($"Sending {toSend.Length} bytes to {targetEndPoint}");
+                //MessageBox.Show($"Sending {toSend.Length} bytes to {targetEndPoint}");
             };
-
+            
             waveIn.StartRecording();
         }
 
@@ -192,7 +192,7 @@ namespace P2P_VoiceChat_Latest_Trial
 
         private void startReceivingButton_Click(object sender, EventArgs e)
         {
-            int listenPort = 5500; //int.Parse(targetPortBox.Text.Trim()); // aynı textbox kullanılabilir
+            int listenPort = int.Parse(targetPortBox.Text.Trim()); // aynı textbox kullanılabilir
             udpReceiver = new UdpClient(listenPort);
 
             decoder = new OpusDecoder(48000, 1);
@@ -218,7 +218,7 @@ namespace P2P_VoiceChat_Latest_Trial
                         byte[] buffer = new byte[samplesDecoded * 2];
                         Buffer.BlockCopy(decoded, 0, buffer, 0, buffer.Length);
                         bufferedWaveProvider.AddSamples(buffer, 0, buffer.Length);
-                        MessageBox.Show($"Received {buffer.Length} bytes from {remoteEP}");
+                        //MessageBox.Show($"Received {buffer.Length} bytes from {remoteEP}");
                     }
                     catch { }
                 }
